@@ -1,2 +1,2 @@
 # hello-world
-This is my first project.
+Hello people, this is my first project.
